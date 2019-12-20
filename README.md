@@ -13,7 +13,7 @@ Need packages (checked in the script):
 
 # How to use 
 ```bash
-sudo bash -c "$(curl https://raw.githubusercontent.com/lalalolo49/script-debian-preseed/master/preseed-script.sh)" _ "<put_your_iso_path_here>"
+sudo bash -c "$(curl https://raw.githubusercontent.com/Jonathanyyf/script-debian-preseed/master/preseed-script.sh)" _ "<put_your_iso_path_here>"
 
 Options
 -h	Show help
